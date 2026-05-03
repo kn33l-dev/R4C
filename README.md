@@ -9,7 +9,7 @@ This game can only run on PCs
 It has simple controls with tapping the space bar to move up to dodge the cones.
 
 # Download
-While I've given all the files to run the game one has to unzip the zipped files (Carrish data.zip and unityplayer.zip) if downlaoded from the above files. 
+While I've given all the files to run the game one has to unzip the zipped files (Carrish data.zip,MonoBleedingEdge.zip and unityplayer.zip) if downlaoded from the above files. 
 
 For convenience, here's the Google Drive Link, you just have to Unzip the file and remove it from the folder to open folders, for it to run properly. Click on Carrish.exe and the game will run.
 
